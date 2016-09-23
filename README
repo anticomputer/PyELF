@@ -3,9 +3,9 @@ NOTE: this is a project I did a long time ago, it may or may not
 be current with modern ELF Binaries, but it should be okay I think.
 
 I wrote this on my own time in 2011, but it's also included in some
-of Immunity, Inc. products since. Since me and Immunity are so 
-intertwined at this point, I've attributed to the copyright to the
-company and not me as a person.
+of Immunity, Inc.'s products since. Since me and Immunity are so 
+intertwined at this point, I've attributed the copyright to the
+company and not to me as a person.
 
 We are releasing this under a BSD license, see LICENSE for details.
 ***
